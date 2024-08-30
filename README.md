@@ -5,7 +5,7 @@ Attached codes are open source files for a research paper published in Computers
 
 steiner2drec: the synthetic waveforms, only vertical component is considered here
 
-TTSTEINERP: the traveltime table of P-wave (which is too big to upload and can be obtained by request, or generated using following velocity model)
+TTSTEINERP: the traveltime table of P-wave (can be downloaded via https://pan.baidu.com/s/1DwiuqYo2sxQb44Abt3-jHg (password: seis), or generated using following velocity model)
 
 steiner2008p: the P-wave velocity model
 
